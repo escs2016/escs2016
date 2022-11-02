@@ -3,12 +3,7 @@
 - 🌱 I’m currently learning next.js, chakra-ui.com
 - 💞️ I’m looking to collaborate on developing online payroll, online lending, online ERP
 - 📫 How to reach me ...+639272505725
-
-visit my sites
-
-https://www.facebook.com/escs2016
-https://www.facebook.com/manny.emmanuel.56
-http://manny.ict.ph/
+visit my sites https://www.facebook.com/escs2016  https://www.facebook.com/manny.emmanuel.56  http://manny.ict.ph/
 
 
 <!---
